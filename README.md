@@ -1,2 +1,2 @@
 # meshblu-balancer-xmpp
-XMPP Balancer
+Load balance meshblu-core-protocol-adapter-xmpp
